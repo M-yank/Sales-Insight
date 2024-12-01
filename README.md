@@ -7,6 +7,7 @@ The Profit and Loss (P&L) statement has been analyzed across year-wise, month-wi
 •	Power Query
 •	Financial Statement
 •	Domain Knowledge
+•	Conditional Formatting
 
 # Customer Performance
 ![d](https://github.com/user-attachments/assets/17b0d5cd-bce2-480f-b8a6-4a8a6e2bd9c5)
